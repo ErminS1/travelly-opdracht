@@ -41,7 +41,7 @@ a {
 }
 button {
   padding: 2rem 6rem;
-  background: #2b5f9e;
+  background: #4c6e97;
   border: none;
   color: white;
   font-size: 1.8rem;
@@ -51,13 +51,13 @@ button {
 
 }
 button:hover {
-  background-color: #3b6aa0;
+  background-color: #4c6e97;
 }
 
 
 
 .Hoofd {
-  background-color: #132a47;
+  background-color: #131c27;
   color: white;
   position: sticky;
   top: 0px;
